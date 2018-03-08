@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
-VisualStudioVersion = 15.0.27004.2006
+VisualStudioVersion = 15.0.27130.2036
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FabrikamFiber", "FabrikamFiber.csproj", "{A8207282-6EC6-4012-A8DD-3EB93C5CDBF3}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApp", "WebApp\WebApp.csproj", "{70C93DE4-7BC2-4068-BBEF-04A0C22A08CD}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{A8207282-6EC6-4012-A8DD-3EB93C5CDBF3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{A8207282-6EC6-4012-A8DD-3EB93C5CDBF3}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{A8207282-6EC6-4012-A8DD-3EB93C5CDBF3}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{A8207282-6EC6-4012-A8DD-3EB93C5CDBF3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{70C93DE4-7BC2-4068-BBEF-04A0C22A08CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70C93DE4-7BC2-4068-BBEF-04A0C22A08CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70C93DE4-7BC2-4068-BBEF-04A0C22A08CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70C93DE4-7BC2-4068-BBEF-04A0C22A08CD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {BDCEE74E-008C-4124-913B-BCCFF180B908}
+		SolutionGuid = {0B7B38E1-78C0-42C8-98EB-8F090280017C}
 	EndGlobalSection
 EndGlobal
