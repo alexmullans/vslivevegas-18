@@ -1,14 +1,13 @@
-﻿using System;
 using ApiClient;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 
-namespace ApiClientTest
+namespace ApiClientTestCore
 {
     [TestClass]
-    public class WidgetClientTest
+    public class UnitTest1
     {
         [TestMethod]
-        public void WidgetClientTest1()
+        public void WidgetClientTest()
         {
             var client = new WidgetClient();
 
