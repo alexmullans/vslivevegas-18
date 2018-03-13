@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>FabrikamFiber.ApiClient.Framework</id>
+    <version>$version$</version>
+    <authors>Microsoft</authors>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Full framework version of the API Client</description>
+  </metadata>
+</package>
