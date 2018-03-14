@@ -1,0 +1,14 @@
+{
+  "name": "fabrikam-fiber-api",
+  "version": "1.0.0",
+  "description": "Node API Client for Fabrikam",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alex Mullans",
+  "license": "MIT",
+  "dependencies": {
+    "rest": "^2.0.0"
+  }
+}
